@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://rtwopo.github.io"
 
 github:
-  username: @RtwoPO # change to your GitHub username
+  username:  # change to your GitHub username
 
 twitter:
-  username: @RtwoPO # change to your Twitter username
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
